@@ -9,6 +9,9 @@
 
 ## 🥇 최초 접근 (Solution.java)
 
+<img width="714" height="444" alt="image" src="https://github.com/user-attachments/assets/6cf58c90-3c3c-4101-b3e2-f1783f8f431f" />
+
+
 ### **힌트 기반 아이디어**
 
 * 1차 힌트: “오름차순으로 정렬한 뒤, 인접한 두 개씩 묶고 각 쌍의 첫 번째 원소들만 전부 더해봐.”
@@ -216,6 +219,9 @@ Level 4 (리프):  1+1+1+...   → O(8)
 ---
 
 ## ⚡ 최적화 접근 (OptimizedSolution.java — Counting Scan)
+
+<img width="805" height="243" alt="image" src="https://github.com/user-attachments/assets/45d68929-99a6-49de-a9be-95307c441fc4" />
+
 
 ### **아이디어 요약**
 
